@@ -1,0 +1,19 @@
+{
+  "name": "get-time",
+  "version": "1.0.0",
+  "description": "Get the current time as an integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "time",
+    "now",
+    "date"
+  ],
+  "author": "Axel Anderson",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
