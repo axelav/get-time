@@ -1,6 +1,6 @@
 {
   "name": "get-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the current time as an integer",
   "main": "index.js",
   "scripts": {
